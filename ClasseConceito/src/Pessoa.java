@@ -1,6 +1,7 @@
 
 public class Pessoa {
 	
+	//encapsulamento - private -ctlr+3 encapsulate field
 	private String nomePessoa; //atributos
 	private int idadePessoa;
 	
